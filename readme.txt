@@ -5,4 +5,6 @@ Modified by guqinglong.
 
 Think it carefully.
 
+ISSUE 100
+
 Git tracks changes. Good.

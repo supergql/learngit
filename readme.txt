@@ -12,4 +12,4 @@ Go Go Go
 
 Git tracks changes. Good.
 
-dev: Creating a new branch is quick.
+dev: Creating a new branch is quick. master:hello

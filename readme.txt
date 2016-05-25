@@ -11,3 +11,5 @@ ISSUE 100
 Go Go Go
 
 Git tracks changes. Good.
+
+dev: Creating a new branch is quick.
